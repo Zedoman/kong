@@ -2,3 +2,4 @@ pandas==1.4.3
 plotly==5.9.0
 statsmodels==0.13.2
 kaleido==0.2.1
+numpy>=1.22.2 # not directly required, pinned by Snyk to avoid a vulnerability
